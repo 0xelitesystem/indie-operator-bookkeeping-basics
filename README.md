@@ -14,17 +14,21 @@ Separate your business money from your personal money. Almost every bookkeeping 
 
 ## What is inside
 
-- `01-separate-business-and-personal.md` the separation rule and how to set it up.
-- `02-what-to-track.md` the short list of things worth recording, and what you can skip.
-- `03-cash-vs-accrual.md` the two basic methods, in plain terms.
-- `04-setting-aside-for-taxes.md` why a tax holdback account prevents the worst surprise.
-- `05-monthly-routine.md` a 30-minute monthly close that keeps records current.
-- `06-common-mistakes.md` the errors that cost solo operators the most.
+- [01-separate-business-and-personal.md](01-separate-business-and-personal.md) the separation rule and how to set it up.
+- [02-what-to-track.md](02-what-to-track.md) the short list of things worth recording, and what you can skip.
+- [03-cash-vs-accrual.md](03-cash-vs-accrual.md) the two basic methods, in plain terms.
+- [04-setting-aside-for-taxes.md](04-setting-aside-for-taxes.md) why a tax holdback account prevents the worst surprise.
+- [05-monthly-routine.md](05-monthly-routine.md) a 30-minute monthly close that keeps records current.
+- [06-common-mistakes.md](06-common-mistakes.md) the errors that cost solo operators the most.
 - `GLOSSARY.md` the terms used here, defined simply.
 
 ## How to use it
 
 Read `01` and act on it today if you have not. Then `04` and `05`, because a tax holdback and a monthly routine are what keep you out of trouble. The rest fills in the vocabulary.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
