@@ -2,6 +2,8 @@
 
 A plain-language reference for solo operators who need to keep their business money straight without becoming an accountant. It covers separating business from personal, what to track, the difference between cash and accrual, setting money aside for taxes, a simple monthly routine, and the mistakes that cause the most pain later.
 
+For general information only. This is not financial, tax or legal advice. Check the numbers with a qualified professional before you rely on them.
+
 **Not tax, legal, or financial advice.** Rules differ by country, state, and situation, and they change. This is general education to help you keep clean records and ask better questions. For anything that affects what you owe or sign, confirm with a qualified accountant or tax professional in your jurisdiction.
 
 ## Who this is for
